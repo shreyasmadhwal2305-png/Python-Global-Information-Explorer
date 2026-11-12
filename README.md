@@ -28,8 +28,7 @@ A Python-based application that retrieves, processes, analyses, and explores cou
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-global-information-explorer.git
-   ```
+   git clone https://github.com/shreyasmadhwal2305-png/Python-Global-Information-Explorer.git   ```
 
 2. Navigate into the project directory:
 
